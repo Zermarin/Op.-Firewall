@@ -2,7 +2,7 @@
     "id": "aba9a074-2f4a-4e26-983f-03058807dbed",
     "modelName": "GMObject",
     "mvc": "1.0",
-    "name": "object0",
+    "name": "oPlayer",
     "eventList": [
         {
             "id": "d56e2b0d-f495-4002-a326-d32b3781611b",

@@ -1,9 +1,9 @@
 //----INPUT UPDATES
 
-input_left    = keyboard_check(ord("A"));
-input_right    = keyboard_check(ord("D"));
-input_up    = keyboard_check(ord("W"));
-input_down    = keyboard_check(ord("S"));
+input_left		= keyboard_check(ord("A"));
+input_right		= keyboard_check(ord("D"));
+input_up		= keyboard_check(ord("W"));
+input_down		= keyboard_check(ord("S"));
 
 //----RESET MOVEMENT VARIABLES
 
@@ -13,10 +13,9 @@ moveY = 0;
 //----INTENDED MOVEMENT
 moveY = (input_down - input_up) * spd;
 
-if (moveY == 0)
-{ moveX = (input_right - input_left) * spd; }
+if (moveY == 0) { moveX = (input_right - input_left) * spd; }
 
-//---- COLLISION CHECKS
+// COLLISION
 
 // Horizontal
 
@@ -41,3 +40,8 @@ if (place_meeting(x, y + moveY, oCollision))
     }
     moveY = 0;
 }
+
+// APPLY MOVEMENT
+
+x += moveX;
+y += moveY;

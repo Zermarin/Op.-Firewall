@@ -1,2 +1,2 @@
-n_spd = 3;
+n_spd = 10;
 spd = n_spd;
