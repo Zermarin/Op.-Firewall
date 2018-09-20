@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "14b54c4d-4f11-4904-b235-bd8e1d509089",
-            "Value": {
-                "id": "849b3e9c-52ea-410d-876c-336fa1d38b9b",
-                "resourcePath": "sprites\\sprite2\\sprite2.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "1d5242c7-d61b-45e1-b31e-f1f8f4c1e2a1",
             "Value": {
                 "id": "01dd682d-4e0c-4918-b90c-0db1c2e09e9c",
@@ -76,6 +68,14 @@
                 "id": "16230398-3de6-4eb2-9cb0-1d497ea9cdf4",
                 "resourcePath": "rooms\\rOverworld\\rOverworld.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "4b29dab2-beaa-49c2-a3f2-67bc65324fff",
+            "Value": {
+                "id": "e0a17ee6-60bb-4b03-b564-59aa09aa3100",
+                "resourcePath": "views\\4b29dab2-beaa-49c2-a3f2-67bc65324fff.yy",
+                "resourceType": "GMFolder"
             }
         },
         {
