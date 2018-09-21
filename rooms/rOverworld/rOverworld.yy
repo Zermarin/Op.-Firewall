@@ -2,7 +2,7 @@
 {
     "name": "rOverworld",
     "id": "45d7dbe0-f6bf-41b5-b472-1ecd18e2c41c",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
