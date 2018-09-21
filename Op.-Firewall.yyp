@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "75376398-0b30-4c59-b7e8-15eee4239512",
+            "Value": {
+                "id": "21ef0cfe-397e-498a-b638-d52338f2b866",
+                "resourcePath": "sprites\\sDoopie\\sDoopie.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "828235b7-0576-41b5-945e-42a08c793a91",
             "Value": {
                 "id": "88bf7a5d-e307-427f-96c2-22ae7d7dda28",
