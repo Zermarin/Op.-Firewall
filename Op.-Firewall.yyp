@@ -95,14 +95,6 @@
             }
         },
         {
-            "Key": "644d4e97-ccbd-4953-a2ba-a6f6c6dbb94d",
-            "Value": {
-                "id": "75fbbabf-1c56-418a-8dbe-7ab39417237f",
-                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "6ada301a-7127-478f-ae24-d8dae86090d5",
             "Value": {
                 "id": "778ae3c9-8774-448a-bd4c-e1dba8917bbc",
@@ -111,19 +103,19 @@
             }
         },
         {
+            "Key": "6bb8a38d-3508-4b7b-8e81-78d56ad529b1",
+            "Value": {
+                "id": "b22ecb3c-2959-4368-891a-0c5cdeb1b52c",
+                "resourcePath": "sprites\\sPlayer\\sPlayer.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "73c34fb9-5813-4d99-a5d1-a87ab71b5bb7",
             "Value": {
                 "id": "bc21c9fa-177d-471b-9aec-2e557b57ac3b",
                 "resourcePath": "views\\73c34fb9-5813-4d99-a5d1-a87ab71b5bb7.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "75376398-0b30-4c59-b7e8-15eee4239512",
-            "Value": {
-                "id": "21ef0cfe-397e-498a-b638-d52338f2b866",
-                "resourcePath": "sprites\\sDoopie\\sDoopie.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
