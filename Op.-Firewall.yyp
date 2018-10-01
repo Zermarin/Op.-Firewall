@@ -39,14 +39,6 @@
             }
         },
         {
-            "Key": "296f2d01-cfa7-404b-8f92-5a14da06b446",
-            "Value": {
-                "id": "145e8060-ef99-4b39-a489-e27537e57f46",
-                "resourcePath": "sprites\\sWallpaper\\sWallpaper.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "2b77d3ae-cd89-4ca7-8a24-1beaf41dce7b",
             "Value": {
                 "id": "8e485221-3215-47b6-ac58-8f6549071324",
@@ -220,6 +212,14 @@
                 "id": "fe8d0a14-84fa-401f-ace8-5e2dd8206a88",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "e200b6fc-05ea-45ff-a80c-fe52d5aab2f3",
+            "Value": {
+                "id": "9e441227-e13f-4684-ba1b-858d7e2dd982",
+                "resourcePath": "sprites\\sMenu\\sMenu.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
