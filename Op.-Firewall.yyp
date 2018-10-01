@@ -39,6 +39,14 @@
             }
         },
         {
+            "Key": "296f2d01-cfa7-404b-8f92-5a14da06b446",
+            "Value": {
+                "id": "145e8060-ef99-4b39-a489-e27537e57f46",
+                "resourcePath": "sprites\\sWallpaper\\sWallpaper.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "2b77d3ae-cd89-4ca7-8a24-1beaf41dce7b",
             "Value": {
                 "id": "8e485221-3215-47b6-ac58-8f6549071324",
@@ -124,6 +132,14 @@
                 "id": "88bf7a5d-e307-427f-96c2-22ae7d7dda28",
                 "resourcePath": "views\\828235b7-0576-41b5-945e-42a08c793a91.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "9024d365-d659-4f02-a862-3720f16058d0",
+            "Value": {
+                "id": "3bcc271e-8080-4f52-9a2b-4bab292ad4d7",
+                "resourcePath": "sprites\\sGrass\\sGrass.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
