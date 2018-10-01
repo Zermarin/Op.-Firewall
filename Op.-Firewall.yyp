@@ -143,6 +143,14 @@
             }
         },
         {
+            "Key": "9dab0add-db72-4ba6-b52b-8fb6a413f5db",
+            "Value": {
+                "id": "9febfbe0-c08d-429d-b768-6cf9c5841c8c",
+                "resourcePath": "objects\\oGrassTest\\oGrassTest.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "a9188620-a624-4a5a-83ae-a1b53faf038b",
             "Value": {
                 "id": "e17b3c82-092f-43a3-82b9-6704bc0d7c68",
