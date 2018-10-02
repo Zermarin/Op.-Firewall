@@ -43,7 +43,7 @@
             "__type": "GMRTileLayer_Model:#YoYoStudio.MVCFormat",
             "name": "L1_GROUND",
             "id": "674c463f-8ee5-47b3-84c5-60d973203357",
-            "depth": 200,
+            "depth": 100,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
@@ -81,7 +81,7 @@
                 ]
             },
             "tilesetId": "2bcd510a-c9ea-4cee-91e2-b7b3573a48e1",
-            "userdefined_depth": true,
+            "userdefined_depth": false,
             "visible": true,
             "x": 0,
             "y": 0
@@ -93,7 +93,7 @@
             "animationFPS": 15,
             "animationSpeedType": "0",
             "colour": { "Value": 4278190080 },
-            "depth": 300,
+            "depth": 200,
             "grid_x": 32,
             "grid_y": 32,
             "hierarchyFrozen": false,
