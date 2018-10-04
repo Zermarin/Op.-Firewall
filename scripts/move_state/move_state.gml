@@ -7,6 +7,7 @@
 		len = 0 ;
 	} else {
 		len = spd;
+		get_face();
 	}
 //get the speed variables
 	hspd = lengthdir_x(len, dir);
@@ -30,3 +31,45 @@
 		vspd = 0;
 }
 	y += vspd;
+	
+	///sprites
+	image_speed = 0.5;
+	if (len == 0){
+		image_index = 0;
+}
+		
+//get direction		
+		switch(face) {
+			case  0:
+			sprite_index = RIGHT;
+			break;
+			
+			case 1:
+			sprite_index = UPRIGHT;
+			break;
+			
+			case  2:
+			sprite_index = UP;
+			break;
+			
+			case 3:
+			sprite_index = UPLEFT;
+			break;
+			case  4:
+			sprite_index = LEFT;
+			break;
+			
+			case 5:
+			sprite_index = DOWNLEFT;
+			break;
+			
+			case 6:
+			sprite_index = DOWN;
+			break;
+			
+			case 7:
+			sprite_index = DOWNRIGHT;
+			break;
+		}
+		
+		
