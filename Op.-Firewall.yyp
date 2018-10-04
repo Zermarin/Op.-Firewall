@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "0d0db906-ae90-4706-9323-4427728f0700",
-            "Value": {
-                "id": "d678795d-144f-4902-a2e9-5b0977927d80",
-                "resourcePath": "objects\\o3D\\o3D.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "1d5242c7-d61b-45e1-b31e-f1f8f4c1e2a1",
             "Value": {
                 "id": "01dd682d-4e0c-4918-b90c-0db1c2e09e9c",
@@ -111,6 +103,14 @@
             }
         },
         {
+            "Key": "4fb47867-b0ab-48db-b15f-3bd9ac47c980",
+            "Value": {
+                "id": "8d9e9650-d25a-4a8a-8aba-f3c702a4f0af",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "51bbf653-325d-4efb-8493-208d85418b11",
             "Value": {
                 "id": "93994ec0-79e9-403c-b390-b8b7b0303210",
@@ -172,14 +172,6 @@
                 "id": "0cf85feb-2780-4c69-b0bd-340129f2ae48",
                 "resourcePath": "views\\833ddc7d-782e-4851-ac58-7582ec51389d.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "9024d365-d659-4f02-a862-3720f16058d0",
-            "Value": {
-                "id": "3bcc271e-8080-4f52-9a2b-4bab292ad4d7",
-                "resourcePath": "sprites\\sGrass\\sGrass.yy",
-                "resourceType": "GMSprite"
             }
         },
         {
@@ -319,14 +311,6 @@
             }
         },
         {
-            "Key": "ee4cffe8-d24b-468b-98e4-c96a7cc35cee",
-            "Value": {
-                "id": "f06f9136-a6be-45d1-b302-0eccd2a9e9d2",
-                "resourcePath": "scripts\\camera_update\\camera_update.yy",
-                "resourceType": "GMScript"
-            }
-        },
-        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "703f1c25-4b83-4d80-b752-60a66ba15dfe",
@@ -352,7 +336,6 @@
         }
     ],
     "script_order": [
-        "ee4cffe8-d24b-468b-98e4-c96a7cc35cee",
         "ac3df47c-0875-4ace-9c2d-9deb99caccf2",
         "c8bb87e0-ab2b-43b7-89c1-49b2a1661f23"
     ],
