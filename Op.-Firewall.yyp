@@ -31,14 +31,6 @@
     },
     "resources": [
         {
-            "Key": "0d0db906-ae90-4706-9323-4427728f0700",
-            "Value": {
-                "id": "d678795d-144f-4902-a2e9-5b0977927d80",
-                "resourcePath": "objects\\o3D\\o3D.yy",
-                "resourceType": "GMObject"
-            }
-        },
-        {
             "Key": "1d5242c7-d61b-45e1-b31e-f1f8f4c1e2a1",
             "Value": {
                 "id": "01dd682d-4e0c-4918-b90c-0db1c2e09e9c",
@@ -84,6 +76,14 @@
                 "id": "147dd6f7-0e30-44df-8eba-4240bb578e9f",
                 "resourcePath": "sprites\\tiles_environment\\tiles_environment.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "3ff2c6d3-fecc-45ce-aafe-1be204a50a06",
+            "Value": {
+                "id": "c572f1fb-b0da-47f4-a6be-3c4db58a89f7",
+                "resourcePath": "objects\\oCamera\\oCamera.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -175,27 +175,11 @@
             }
         },
         {
-            "Key": "9024d365-d659-4f02-a862-3720f16058d0",
-            "Value": {
-                "id": "3bcc271e-8080-4f52-9a2b-4bab292ad4d7",
-                "resourcePath": "sprites\\sGrass\\sGrass.yy",
-                "resourceType": "GMSprite"
-            }
-        },
-        {
             "Key": "951e4ec0-99fd-4e86-a006-90081df65b1f",
             "Value": {
                 "id": "d10d840a-31f4-449b-805e-3cae11ee3613",
                 "resourcePath": "views\\951e4ec0-99fd-4e86-a006-90081df65b1f.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "9dab0add-db72-4ba6-b52b-8fb6a413f5db",
-            "Value": {
-                "id": "9febfbe0-c08d-429d-b768-6cf9c5841c8c",
-                "resourcePath": "objects\\oGrassTest\\oGrassTest.yy",
-                "resourceType": "GMObject"
             }
         },
         {
