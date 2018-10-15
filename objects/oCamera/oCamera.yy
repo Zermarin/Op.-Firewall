@@ -1,9 +1,14 @@
 {
+<<<<<<< HEAD:objects/oCamera/oCamera.yy
     "id": "3ff2c6d3-fecc-45ce-aafe-1be204a50a06",
+=======
+    "id": "4fb47867-b0ab-48db-b15f-3bd9ac47c980",
+>>>>>>> 396f0bfcf636c9462714096dabae6cc81aa43f11:objects/oCamera/oCamera.yy
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oCamera",
     "eventList": [
+<<<<<<< HEAD:objects/oCamera/oCamera.yy
         {
             "id": "0f253405-2ae7-41e4-920f-f77026205601",
             "modelName": "GMEvent",
@@ -24,11 +29,14 @@
             "eventtype": 3,
             "m_owner": "3ff2c6d3-fecc-45ce-aafe-1be204a50a06"
         }
+=======
+        
+>>>>>>> 396f0bfcf636c9462714096dabae6cc81aa43f11:objects/oCamera/oCamera.yy
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
     "parentObjectId": "00000000-0000-0000-0000-000000000000",
-    "persistent": true,
+    "persistent": false,
     "physicsAngularDamping": 0.1,
     "physicsDensity": 0.5,
     "physicsFriction": 0.2,

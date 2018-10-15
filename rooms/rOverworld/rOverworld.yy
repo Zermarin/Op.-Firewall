@@ -7,8 +7,12 @@
     "inheritCreationOrder": false,
     "inheritLayers": false,
     "instanceCreationOrderIDs": [
+<<<<<<< HEAD
         "8800e2aa-698d-4d8f-9671-b142a30eedbd",
         "1d6547eb-783e-4533-9715-4eaa714b9913"
+=======
+        "8800e2aa-698d-4d8f-9671-b142a30eedbd"
+>>>>>>> 396f0bfcf636c9462714096dabae6cc81aa43f11
     ],
     "IsDnD": false,
     "layers": [
@@ -26,8 +30,12 @@
             "inheritSubLayers": false,
             "inheritVisibility": false,
             "instances": [
+<<<<<<< HEAD
 {"name": "inst_7794E760","id": "8800e2aa-698d-4d8f-9671-b142a30eedbd","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7794E760","objId": "aba9a074-2f4a-4e26-983f-03058807dbed","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 532,"y": 443},
 {"name": "inst_69B128E8","id": "1d6547eb-783e-4533-9715-4eaa714b9913","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_69B128E8","objId": "3ff2c6d3-fecc-45ce-aafe-1be204a50a06","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 544,"y": 384}
+=======
+{"name": "inst_7794E760","id": "8800e2aa-698d-4d8f-9671-b142a30eedbd","colour": { "Value": 4294967295 },"creationCodeFile": "","creationCodeType": "","ignore": false,"inheritCode": false,"inheritItemSettings": false,"IsDnD": false,"m_originalParentID": "00000000-0000-0000-0000-000000000000","m_serialiseFrozen": false,"modelName": "GMRInstance","name_with_no_file_rename": "inst_7794E760","objId": "aba9a074-2f4a-4e26-983f-03058807dbed","properties": null,"rotation": 0,"scaleX": 1,"scaleY": 1,"mvc": "1.0","x": 532,"y": 443}
+>>>>>>> 396f0bfcf636c9462714096dabae6cc81aa43f11
             ],
             "layers": [
 
@@ -66,18 +74,18 @@
                 "SerialiseHeight": 12,
                 "SerialiseWidth": 16,
                 "TileSerialiseData": [
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,
-                    19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19
+                    19,20,20,20,20,20,20,20,20,20,20,20,20,20,20,21,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    35,36,36,36,36,36,36,36,36,36,36,36,36,36,36,37,
+                    51,52,52,52,52,52,52,52,52,52,52,52,52,52,52,53
                 ]
             },
             "tilesetId": "2bcd510a-c9ea-4cee-91e2-b7b3573a48e1",
