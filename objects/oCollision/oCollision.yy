@@ -1,5 +1,5 @@
 {
-    "id": "b1074db5-2921-4ad1-b548-cddb40f4ba55",
+    "id": "5643e4c7-cade-4ba5-b1b0-f40feb736d48",
     "modelName": "GMObject",
     "mvc": "1.0",
     "name": "oCollision",
@@ -24,6 +24,6 @@
     "physicsStartAwake": true,
     "properties": null,
     "solid": false,
-    "spriteId": "b54bda8e-a2d2-4416-b70e-af84494bbdd1",
+    "spriteId": "c185bad1-dcf1-4814-995f-ea443c725faf",
     "visible": true
 }

@@ -1,4 +1,4 @@
 //-- EXECUTING MOVEMENT SCRIPT
-scr_Input();
+scr_input();
 depth = -y;
 script_execute(state);
